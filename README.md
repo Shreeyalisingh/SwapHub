@@ -53,6 +53,6 @@ A MERN Stack-based web application tailored for college campuses, **SWAPHUB** se
 - ♻️ Promoted sustainability through **donation feature**
 
 ## Screenshot
-![Interface](image1.png)
-![Interface](image2.png)
 ![Interface](image3.png)
+![Interface](image2.png)
+![Interface](image1.png)
