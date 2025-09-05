@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vaibhav-0310/SwapHub.git"
+    "url":"https://github.com/Shreeyalisingh/SwapHub"
   },
-  "author": "vaibhav",
+  "author": "shreeyali",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/vaibhav-0310/SwapHub/issues"
