@@ -14,9 +14,9 @@
   "author": "shreeyali",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vaibhav-0310/SwapHub/issues"
+    "url": "https://github.com/Shreeyalisingh/SwapHub/issues"
   },
-  "homepage": "https://github.com/vaibhav-0310/SwapHub#readme",
+  "homepage": "https://github.com/Shreeyalisingh/SwapHub#readme",
   "dependencies": {
     "body-parser": "^1.20.3",
     "cookie-parser": "^1.4.7",
